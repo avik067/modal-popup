@@ -1,0 +1,43 @@
+.trigger-button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: white;
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2vh;
+}
+.icon {
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+.close-button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: white;
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+.icon-cross {
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+
+.modal-container {
+  height: 100vh !important;
+  /* width: 100vw !important ; */
+}
